@@ -61,7 +61,7 @@ All languages supported by the [base model](https://huggingface.co/facebook/m2m1
 
 ### Training Dataset
 
-The training dataset consists of 1,500,000 translation pairs, sourced from a combination of open-source parallel corpora and curated datasets specific to Yoruba, Igbo, and Hausa
+The [training dataset](https://huggingface.co/datasets/HelpMum-Personal/nigeria_translation) consists of 1,500,000 translation pairs, sourced from a combination of open-source parallel corpora and curated datasets specific to Yoruba, Igbo, and Hausa
 
 ## Limitations
 
