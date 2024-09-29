@@ -1,4 +1,4 @@
-# m2m100_418M-nig-en
+# HelpMum-Personal/ai-translator
 
 This model is a fine-tuned version of Facebook's [M2M100](https://huggingface.co/facebook/m2m100_418M) translation model, optimized for translating from Yoruba, Igbo, and Hausa into English. It was trained on a dataset consisting of 1,500,000 sentences (500,000 for each language), providing high-quality translations for these languages.
 It was built with the intention of building a system that makes it easier to communicate with LLMs using Igbo, Hausa and Yoruba languages.
